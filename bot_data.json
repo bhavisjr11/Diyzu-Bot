@@ -1,0 +1,36 @@
+{
+  "keys": {},
+  "reseller_keys": {},
+  "users": {},
+  "resellers": {},
+  "pending_orders": {},
+  "settings": {
+    "binance_id": "",
+    "upi_id": "",
+    "plans": {
+      "1 Day": {
+        "price": 10,
+        "dur": "1 Day"
+      },
+      "7 Days": {
+        "price": 50,
+        "dur": "7 Days"
+      },
+      "30 Days": {
+        "price": 150,
+        "dur": "30 Days"
+      }
+    },
+    "wallet_enabled": true
+  },
+  "verified": [],
+  "admin_ids": [],
+  "res_keys": {},
+  "files": {},
+  "balances": {},
+  "_state": {},
+  "config": {
+    "binance_id": "865770026"
+  },
+  "reseller_sessions": {}
+}
